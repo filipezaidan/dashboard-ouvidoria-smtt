@@ -1,4 +1,4 @@
-# **Dashboard Ouvidoria SMTT** :pager:
+# **Dashboard Ouvidoria SMTT**
 
 <h1 align=center>
   <img src="assets/dashboard-banner.png" alt="Dashboard SMTT Banner"/>
@@ -22,20 +22,20 @@
 </h3>
 
 <h2 align=center>
-  <i>Screen Web </i> :pager:
+  Screen Web
 </h2>
 
 <div align=center>
   <img src="assets/web.png" alt="Home web"/>
 </div>
 
-## **:rocket: OBJECTIVE**
+## **:rocket: Objective**
 
 <p align=justify> 
 The main objective of the project is to display the data of the registered ombudsman's office in the SMTT system, making it possible to graphically visualize the information saved and filter this data based on dates and/or responsible board. JavaScript was used as a programming language along with React JS, HTML and CSS for the overall development of the platform.
 </p>
 
-## **:computer: TECHNOLOGIES**
+## **:computer: Technologies**
 
 #### **:pager: Website ([React][react])**
 
@@ -54,7 +54,7 @@ The main objective of the project is to display the data of the registered ombud
   - **[Netlify][netlify]**
   - **[Heroku][heroku]**
 
-## ***:star2: Collaborators***
+## **:star2: Collaborators**
 
 <div align=center>
 
@@ -78,7 +78,7 @@ The main objective of the project is to display the data of the registered ombud
 </table>
 </div>
 
-<i><h2 align="center">Made with ❤️ by <a href="https://www.linkedin.com/in/filipezaidan/">Filipe Zaidan</a></h2></i>
+<h3 align="center">Made with ❤️ by <a href="https://www.linkedin.com/in/filipezaidan/">Filipe Zaidan</a></h3>
 
 
 <!-- Badges -->
